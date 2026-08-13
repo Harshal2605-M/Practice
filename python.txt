@@ -1,0 +1,52 @@
+Python Placement Roadmap
+🔴 High Priority — Must Know
+Lists, tuples, sets, dictionaries
+List/dict/set comprehensions
+Functions
+*args
+**kwargs
+default arguments
+scope
+Lambda
+map(), filter(), sorted()
+String manipulation
+Exception handling
+try
+except
+finally
+raise
+File handling
+read/write
+with open()
+OOP
+class/object
+constructor
+inheritance
+polymorphism
+encapsulation
+Iterators & generators
+Decorators
+Shallow vs deep copy
+Mutable vs immutable
+is vs ==
+References and memory behavior
+🟡 Medium Priority
+zip()
+enumerate()
+any() / all()
+collections
+Counter
+defaultdict
+deque
+datetime
+Regular expressions
+Modules & packages
+__name__ == "__main__"
+JSON handling
+Basic type hints
+🟢 Lower Priority
+reduce()
+Context managers — deeper implementation
+Advanced decorators
+Advanced dunder methods
+Metaclasses
