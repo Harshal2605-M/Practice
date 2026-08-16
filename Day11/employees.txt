@@ -1,0 +1,4 @@
+Alice,Python,100000
+Bob,SQL,80000
+Charlie,Pandas,70000
+David,Scikit-learn,90000
